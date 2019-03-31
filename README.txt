@@ -1,2 +1,4 @@
-The game is within the folder "Demo Project". 
-Open application "Game" to play.
+The folder "artAssets" features all art assets I contributed.
+The game zip file can be downloaded via the html link.
+
+The game.exe can be accessed via the "Demo Project" folder.
